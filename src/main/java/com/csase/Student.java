@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * Represents a student that with a study planner
  */
-public class Student {
+public class Student() {
 
     private StudyPlanner planner;       // study planner
     private Scanner scanner;            // scanner for user input
